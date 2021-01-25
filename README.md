@@ -9,4 +9,8 @@ yeee
  development
 =======
 MESH is da best - maybe?
+<<<<<<< HEAD
 >>>>>>> testing another push request
+=======
+this is so confusing
+>>>>>>> hello team
